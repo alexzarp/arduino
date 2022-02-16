@@ -23,7 +23,7 @@ PushButton botaoLiga(pinLiga);
 PushButton botaoDesliga(pinDesliga);
 
 // DECLARAÇÃO VARIÁVEIS GLOBAIS
-bool lerComando = false;
+bool lerComando = true;
 
 // DECLARAÇÃO DAS FUNÇÕES DE LEITURA
 
